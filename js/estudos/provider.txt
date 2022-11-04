@@ -1,0 +1,1 @@
+provider -> é um serviço que nos dá a possibilidade de configurá-lo, como se pudessemos passar por um ciclo de vida anterior a instanciação do serviço, onde podemos optar por passar parâmetros para esse serviço o configurando.
